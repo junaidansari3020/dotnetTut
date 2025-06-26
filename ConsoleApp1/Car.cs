@@ -14,5 +14,8 @@ namespace ConsoleApp1
         public void CurrentSpeed() {
             Console.WriteLine("Your current speed is 120kmph");
         }
+        public void lauda() {
+            Console.WriteLine("lavda");
+        }
     }
 }
