@@ -11,5 +11,8 @@ namespace ConsoleApp1
         public void NewTestMethod() {
             Console.WriteLine("This is new test method.");
         }
+        public void CurrentSpeed() {
+            Console.WriteLine("Your current speed is 120kmph");
+        }
     }
 }
